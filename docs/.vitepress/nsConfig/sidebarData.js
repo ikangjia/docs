@@ -346,7 +346,9 @@ const sidebarData = {
             text: '关于网站',
             items: [
                 {text: '关于此网站', link: '/guide/'},
-                {text: '常用网站搜集', link: '/guide/sites.md'},
+                {text: '本网站是如何搭建的', link: '/guide/本网站是如何搭建的'},
+                {text: 'Vitepress 使用总结', link: '/guide/Vitepress 使用总结'},
+                {text: '优秀网站集锦', link: '/guide/sites'},
             ]
         },
         {
