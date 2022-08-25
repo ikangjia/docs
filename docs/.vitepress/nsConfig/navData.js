@@ -139,5 +139,6 @@ const navData = [
             {text: '了解更多', link: 'https://ikangjia.cn/'},
         ]
     },
+    {text: '友情链接', link: '/guide/friends.md'}
 ]
 export default navData

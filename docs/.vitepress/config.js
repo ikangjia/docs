@@ -7,7 +7,10 @@ export default {
     base: '/docs/',
     head: [],
 
+    lastUpdated: true,
+
     markdown: {
+        lineNumber: true,
       toc: {level: [2,3]}
     },
 
@@ -15,6 +18,10 @@ export default {
         siteTitle: '林深时觉寒',
         nav: NavData,
         sidebar: SidebarData,
+        editLink: {
+            pattern: 'https://github.com/ikangjia/docs/edit/main/docs/:path',
+            text: 'Edit this page on GitHub'
+        },
         socialLinks:
             [
                 {icon: 'github', link: 'https://github.com/ikangjia'},

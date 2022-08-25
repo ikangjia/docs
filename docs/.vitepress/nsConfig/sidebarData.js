@@ -363,6 +363,7 @@ const sidebarData = {
         {
             text: '未来计划',
             items: [
+                {text: '友情链接', link: '/guide/friends'},
                 {text: '再说吧', link: '/guide/future/'},
             ]
         },
