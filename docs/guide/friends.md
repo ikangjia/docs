@@ -28,7 +28,8 @@ const members = [
 
 ];
 
-const friendTemplate = {
+const friendTemplate = 
+{
     avatar: 'https://avatars.githubusercontent.com/u/61862961?v=4',
     name: '林深时觉寒',
     title: 'Java 程序员 ｜ 前端小白菜',
@@ -37,8 +38,12 @@ const friendTemplate = {
       { icon: 'github', link: 'https://github.com/ikangjia' },
       { icon: 'twitter', link: 'https://twitter.com/ikangjia' }
     ]
-  };
-console.log(friendTemplate)
+  }
+;
+console.log("Hi～ It's my pleasure to see you here.");
+console.log("If you would like to exchange links with me, just refer to the following content " 
++ "and generate your own information,then email it to: " + window.btoa('ikangjia.cn@outlook.com'));
+console.log(JSON.stringify(friendTemplate));
 </script>
 
 <VPTeamPage>
