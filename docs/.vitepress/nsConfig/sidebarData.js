@@ -301,7 +301,8 @@ const sidebarData = {
         {
             text: 'Docker',
             items: [
-                {text: 'Docker 是什么', link: '/articles/dev-ops/docker/'},
+                {text: '虚拟化与容器', link: '/articles/dev-ops/docker/'},
+                {text: '安装', link: '/articles/dev-ops/docker/Docker 安装与配置'},
             ]
         },
         {

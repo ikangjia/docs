@@ -16,6 +16,7 @@ export default {
 
     themeConfig: {
         siteTitle: '林深时觉寒',
+        logo: 'https://avatars.githubusercontent.com/u/61862961?v=4',
         nav: NavData,
         sidebar: SidebarData,
         editLink: {

@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 网站指北
-      link: /guide/what-is-vitepress
+      link: /guide/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/ikangjia/docs
 
 features:
   - icon: ⚡️
