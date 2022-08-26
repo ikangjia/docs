@@ -105,4 +105,4 @@ sudo docker info
 sudo docker --help
 ```
 <!--@include: ../../../.vitepress/common/footer.md-->
-![1](/1.jpg)
+![1](/images/1.jpg)
