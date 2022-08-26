@@ -275,18 +275,6 @@ const sidebarData = {
     // DevOps
     '/articles/dev-ops/': [
         {
-            text: 'Linux',
-            items: [
-                {text: 'Vim 使用技巧', link: '/articles/dev-ops/linux/'},
-            ]
-        },
-        {
-            text: 'Git',
-            items: [
-                {text: '学习 Git', link: '/articles/dev-ops/git/'},
-            ]
-        },
-        {
             text: 'Maven',
             items: [
                 {text: 'Maven概览', link: '/articles/dev-ops/maven/'},
@@ -299,13 +287,6 @@ const sidebarData = {
             ]
         },
         {
-            text: 'Docker',
-            items: [
-                {text: '虚拟化与容器', link: '/articles/dev-ops/docker/'},
-                {text: '安装', link: '/articles/dev-ops/docker/Docker 安装与配置'},
-            ]
-        },
-        {
             text: 'Nginx',
             items: [
                 {text: 'Nginx 概览', link: '/articles/dev-ops/nginx/'},
@@ -315,6 +296,36 @@ const sidebarData = {
             text: 'Tomcat',
             items: [
                 {text: 'Tomcat 概览', link: '/articles/dev-ops/tomcat/'},
+            ]
+        },
+    ],
+    // Docker
+    '/articles/docker/':[
+        {
+            text: 'Docker',
+            items: [
+                {text: '虚拟化与容器', link: '/articles/docker/'},
+                {text: '安装', link: '/articles/docker/Docker 安装与配置'},
+            ]
+        },
+    ],
+
+    // Linux
+    '/articles/linux/':[
+        {
+            text: 'Linux',
+            items: [
+                {text: 'Vim 使用技巧', link: '/articles/linux/'},
+            ]
+        },
+    ],
+
+    // Git
+    '/articles/git/':[
+        {
+            text: 'Git',
+            items: [
+                {text: '学习 Git', link: '/articles/git/'},
             ]
         },
     ],

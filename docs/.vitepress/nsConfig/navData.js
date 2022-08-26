@@ -110,8 +110,8 @@ const navData = [
             {
                 text: '基础',
                 items: [
-                    {text: 'Linux', link: '/articles/dev-ops/linux/'},
-                    {text: 'Git', link: '/articles/dev-ops/git/'},
+                    {text: 'Linux', link: '/articles/linux/'},
+                    {text: 'Git', link: '/articles/git/'},
                 ]
             },
             {
@@ -124,7 +124,7 @@ const navData = [
             {
                 text: '部署',
                 items: [
-                    {text: 'Docker', link: '/articles/dev-ops/docker/'},
+                    {text: 'Docker', link: '/articles/docker/'},
                     {text: 'Nginx', link: '/articles/dev-ops/nginx/'},
                     {text: 'Tomcat', link: '/articles/dev-ops/tomcat/'},
                 ]
