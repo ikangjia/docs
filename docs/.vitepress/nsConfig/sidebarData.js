@@ -302,10 +302,28 @@ const sidebarData = {
     // Docker
     '/articles/docker/':[
         {
-            text: 'Docker',
+            text: '基础',
             items: [
                 {text: '虚拟化与容器', link: '/articles/docker/'},
-                {text: '安装', link: '/articles/docker/Docker 安装与配置'},
+                {text: '安装与配置', link: '/articles/docker/安装与配置'},
+                {text: '构建镜像', link: '/articles/docker/构建镜像'},
+                {text: '容器操作', link: '/articles/docker/容器操作'},
+            ]
+        },
+        {
+            text: '高级',
+            items: [
+                {text: '文件操作', link: '/articles/docker/文件操作'},
+                {text: '容器编排', link: '/articles/docker/容器编排'},
+                {text: '网络详解', link: '/articles/docker/网络详解 '},
+            ]
+        },
+        {
+            text: '实战',
+            items: [
+                {text: '构建常用应用', link: '/articles/docker/构建常用应用'},
+                {text: '常用命令', link: '/articles/docker/常用命令'},
+                {text: '常见问题', link: '/articles/docker/常见问题'},
             ]
         },
     ],
