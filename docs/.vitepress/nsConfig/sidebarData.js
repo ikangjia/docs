@@ -196,29 +196,67 @@ const sidebarData = {
     ],
     '/articles/front-end/css/': [
         {
-            text: '文字效果',
+            text: '实战',
             items: [
-                {text: '概况', link: '/articles/front-end/html/'},
+                {text: '登陆框', link: '/articles/front-end/html/'},
+                {text: '两列布局', link: '/articles/front-end/html/'},
+                {text: '三列布局', link: '/articles/front-end/html/'},
+            ]
+        },
+        {
+          text: '基础',
+          items: [
+              {text: '基础', link: '/articles/front-end/html/'},
+              {text: '媒体查询', link: '/articles/front-end/html/'},
+              {text: '颜色、背景、渐变', link: '/articles/front-end/html/'},
+              {text: '字体', link: '/articles/front-end/html/'},
+              {text: '文本', link: '/articles/front-end/html/'},
+          ]
+        },
+        {
+            text: '视觉格式化',
+            items: [
+                {text: '单位和值', link: '/articles/front-end/html/'},
+                {text: '元素显示方式', link: '/articles/front-end/html/'},
+                {text: '行内元素', link: '/articles/front-end/html/'},
+                {text: '媒体查询', link: '/articles/front-end/html/'},
+            ]
+        },
+        {
+            text: '选择符',
+            items: [
+                {text: '基础选择符', link: '/articles/front-end/html/'},
+                {text: '属性选择符', link: '/articles/front-end/html/'},
+                {text: '伪类选择符', link: '/articles/front-end/html/'},
+                {text: '伪元素选择符', link: '/articles/front-end/html/'},
+            ]
+        },
+        {
+            text: '盒模型',
+            items: [
+                {text: '基础', link: '/articles/front-end/html/'},
+                {text: '内边距', link: '/articles/front-end/html/'},
+                {text: '边框', link: '/articles/front-end/html/'},
+                {text: '轮廓', link: '/articles/front-end/html/'},
+                {text: '外边距', link: '/articles/front-end/html/'},
             ]
         },
         {
             text: '布局',
             items: [
+                {text: '浮动', link: '/articles/front-end/css/1'},
+                {text: '定位', link: '/articles/front-end/css/2'},
+                {text: 'Flex 弹性盒布局', link: '/articles/front-end/css/3'},
+                {text: '栅栏布局', link: '/articles/front-end/css/4'},
+                {text: '表格布局', link: '/articles/front-end/css/5'},
+            ]
+        },
+        {
+            text: '变形、过渡、动画',
+            items: [
                 {text: '概况', link: '/articles/front-end/css/'},
             ]
         },
-        {
-            text: '阴影',
-            items: [
-                {text: '概况', link: '/articles/front-end/js/'},
-            ]
-        },
-        {
-            text: '颜色',
-            items: [
-                {text: '概况', link: '/articles/front-end/node/'},
-            ]
-        }
     ],
     '/articles/front-end/js/': [
         {
