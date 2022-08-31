@@ -206,7 +206,7 @@ const sidebarData = {
         {
           text: '基础',
           items: [
-              {text: '基础', link: '/articles/front-end/html/'},
+              {text: '基础', link: '/articles/front-end/css/'},
               {text: '媒体查询', link: '/articles/front-end/html/'},
               {text: '颜色、背景、渐变', link: '/articles/front-end/html/'},
               {text: '字体', link: '/articles/front-end/html/'},
