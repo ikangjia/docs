@@ -9,17 +9,17 @@ const members = [
     avatar: 'https://avatars.githubusercontent.com/u/61862961?v=4',
     name: '林深时觉寒',
     title: 'Java 程序员 ｜ 前端小白菜',
-    desc: 'Every dog has its day.',
+    desc: 'https://ikangjia.cn/',
     links: [
       { icon: 'github', link: 'https://github.com/ikangjia' },
-      { icon: 'twitter', link: 'https://twitter.com/ikangjia' }
+      { icon: 'twitter', link: 'https://twitter.com/ikangjia' },
     ]
   },
 {
     avatar: 'https://www.github.com/yyx990803.png',
     name: 'Evan You',
     title: 'Creator',
-    desc: '强行拉来凑数的.',
+    desc: 'https://evanyou.me/',
     links: [
       { icon: 'github', link: 'https://github.com/yyx990803' },
       { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
