@@ -34,7 +34,7 @@ outline: deep
 
 ### 四种自定义容器
 
-语法如下，其中的 info 可以为 tip、waring、danger、detail
+语法如下，其中的 info 可以为 tip、warning、danger、details
 
 ```markdown
 ::: info

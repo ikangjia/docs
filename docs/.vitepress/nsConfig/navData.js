@@ -1,5 +1,9 @@
 const navData = [
     {
+        text: '别点我',
+        link: '/articles/way2god/',
+    },
+    {
         text: 'Java',
         items: [
             {
