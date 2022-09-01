@@ -1,5 +1,5 @@
 ---
-title: 别点我
+title: 实用技术点
 outline: deep
 ---
 
