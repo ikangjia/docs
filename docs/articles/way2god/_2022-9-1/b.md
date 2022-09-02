@@ -3,7 +3,7 @@ title: cscasc
 outline: deep
 ---
 <script setup>
-import ShowTime from '/docs/components/ShowTime.vue'
+import ShowTime from '../../../components/ShowTime.vue'
 </script>
 # {{ $frontmatter.title }}
 ascascsa
