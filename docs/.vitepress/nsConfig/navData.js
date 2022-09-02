@@ -140,6 +140,7 @@ const navData = [
         items: [
             {text: '关于网站', link: '/guide/'},
             {text: '闲言几句', link: '/guide/words/'},
+            {text: '友情链接', link: '/guide/friends.md'},
             {text: '了解更多', link: 'https://ikangjia.cn/'},
         ]
     },
