@@ -101,9 +101,9 @@ const navData = [
                 ]
             },
             {
-                text: '大前端',
+                text: '生态',
                 items: [
-                    {text: 'Node', link: '/articles/front-end/ecology/'},
+                    {text: '基础', link: '/articles/front-end/ecology/'},
                 ]
             },
         ]

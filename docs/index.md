@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 林深时觉寒
   text: false
-  tagline: 一些来源于网络文章、个人总结的成体系的在线文档
+  tagline: 一些来源于网络文章或个人总结的、成体系的在线文档
   actions:
     - theme: brand
       text: 网站指北

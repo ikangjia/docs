@@ -291,9 +291,11 @@ const sidebarData = {
     ],
     '/articles/front-end/ecology/': [
         {
-            text: 'Node.js',
+            text: '前端生态基础',
             items: [
-                {text: '概况', link: '/articles/front-end/html/'},
+                {text: '包管理器常用命令', link: '/articles/front-end/ecology/包管理器常用命令'},
+                {text: '包管理器', link: '/articles/front-end/ecology/'},
+                {text: '包管理器扩展阅读', link: '/articles/front-end/ecology/包管理器扩展阅读'},
             ]
         },
         {
