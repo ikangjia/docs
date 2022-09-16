@@ -246,7 +246,7 @@ const sidebarData = {
             items: [
                 {text: '浮动', link: '/articles/front-end/css/1'},
                 {text: '定位', link: '/articles/front-end/css/2'},
-                {text: 'Flex 弹性盒布局', link: '/articles/front-end/css/3'},
+                {text: 'Flex 弹性盒布局', link: '/articles/front-end/css/Flex 布局.md'},
                 {text: '栅栏布局', link: '/articles/front-end/css/4'},
                 {text: '表格布局', link: '/articles/front-end/css/5'},
             ]
