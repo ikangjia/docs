@@ -2,8 +2,6 @@
 outline: deep
 ---
 
-
-
 # 使用总结
 
 ## 文章页的目录
@@ -29,6 +27,11 @@ outline: deep
 - :smile:：`:smile:`
   ……
 - 更多表情参考：[markdown-it-emoji](https://github.com/markdown-it/markdown-it-emoji/blob/master/lib/data/full.json)
+
+## 添加图片
+网络图片直接引用即可。关于本地图片一律放在 `docs/public/images` 目录，在 md 文章里引用方式以下两种方式均可：
+  - 使用 md 语法引用：`![img](/public/images/xxx.png)`
+  - 使用 HTML 语法引入：`<img src="/public/images/xxx.png"/>`
 
 ## 自定义容器
 
