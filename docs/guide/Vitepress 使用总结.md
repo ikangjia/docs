@@ -127,6 +127,23 @@ export default {
 }
 ```
 
+### md 文件跳转（很有用）
+
+现有以下文件：
+
+- `docs/a.md --> a.html`
+- `docs/article/b.md --> b.html`
+
+假如需要在 a 页面跳转到 b 页面，只需要使用源文件里使用 md 语法在 a.md 里引用 b.md 即可。例如：
+
+```markdown
+[点击跳转 b 页面](./article/b.md)
+```
+
+最后的效果为：[点击跳转 b 页面](./article/b.md)
+
+> 注意：使用相对路径！
+
 ### md 文件包含
 
 加入你有一个文件：`./parts/basics.md`，里面内容为：
