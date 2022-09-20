@@ -10,7 +10,4 @@ outline: deep
 - 第三件事：我还没想好
 :::
 ## 2022-9
-- [（原创）我用最简单例子学 Java8 流库里 flatmap 的用法](_2022-9-1/b.md)
-- [（转载）Java 中的 Date 转 LocalDateTime]()
-- [用最简单例子学 Java8 流库里 flatmap 的用法]()
-- [用最简单例子学 Java8 流库里 flatmap 的用法]()
+- [（原创）一个 Spring MVC 文件下载的例子](_2022-9/一个SpringMVC文件下载例子.md)
