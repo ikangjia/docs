@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.1bd43828.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"articles/middleware/mybatis/index.md","lastUpdated":1663663044000}'),r={name:"articles/middleware/mybatis/index.md"};function s(d,i,n,c,o,m){return t(),a("div")}const _=e(r,[["render",s]]);export{l as __pageData,_ as default};
