@@ -10,5 +10,5 @@ outline: deep
 - 第三件事：我还没想好
 :::
 ## 2022-9
-- [（原创）Java 将多个文件压缩成 Zip 文件](_2022-9/Java将多文件压缩成zip.md)
-- [（原创）一个 Spring MVC 文件下载的例子](_2022-9/一个SpringMVC文件下载例子.md)
+- [Java 将多个文件压缩成 Zip 文件](_2022-9/Java将多文件压缩成zip.md)
+- [一个 Spring MVC 文件下载的例子](_2022-9/一个SpringMVC文件下载例子.md)
