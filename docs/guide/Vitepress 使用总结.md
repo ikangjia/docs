@@ -131,16 +131,16 @@ export default {
 
 现有以下文件：
 
-- `docs/a.md --> a.html`
-- `docs/article/b.md --> b.html`
+- `docs/guide/a.md --> a.html`
+- `docs/guide/friends.md --> friends.html`
 
-假如需要在 a 页面跳转到 b 页面，只需要使用源文件里使用 md 语法在 a.md 里引用 b.md 即可。例如：
+假如需要在 a 页面跳转到 friends 页面，只需要使用源文件里使用 md 语法在 `a.md` 里引用 `friends.md` 即可。例如：
 
 ```markdown
-[点击跳转 b 页面](./article/b.md)
+[点击跳转友情链接页面](./friends.md)
 ```
 
-最后的效果为：[点击跳转 b 页面](./article/b.md)
+最后的效果为：[点击跳转友情链接页面](./friends.md)
 
 > 注意：使用相对路径！
 
