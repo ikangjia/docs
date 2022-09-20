@@ -35,8 +35,6 @@ function download() {
 ## 后端代码
 
 ```java
-package cn.ikangjia.fun.backend.filedownload;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PostMapping;
 
